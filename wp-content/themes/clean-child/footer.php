@@ -11,7 +11,7 @@
                 <div id="footmenu">
             <p><a href="\">Home</a> | <a href="/privacy-policy/">Privacy  Policy</a> | <a href="http://www.aha.edu/gedtpage/Gedt_culinary/Gedt.html" target="_blank">Gainful Employment</a> | <a href="/contact-us/">Contact Us</a> | <a href="/admissions/">Apply Now</a></p>
             </div>	
-				<div class="right"><p>Website by Edge Multimedia, <a target="blank" href="http://www.edgemm.com" title="Advertising Agency Porltand">Advertising Agency Portland</a></p></div>
+				<div class="right"><p>Site Design by <a href='http://edgemm.com' title='Portland Advertising Agency' target='_blank'>EDGE Multimedia</a></p></div>
                 
 				<div class="left">
                 
